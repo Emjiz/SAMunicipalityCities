@@ -4,15 +4,15 @@ City of Cape Town Metropolitan,Western Cape,Metropolitan
 City of Ekurhuleni Metropolitan,Gauteng,Metropolitan
 City of Johannesburg Metropolitan,Gauteng,Metropolitan
 City of Tshwane Metropolitan,Gauteng,Metropolitan
-eThekwini Metropolitan,KwaZulu-Natal,Metropolitan
+eThekwini Metropolitan,KwaZulu Natal,Metropolitan
 Mangaung Metropolitan,Free State,Metropolitan
 Nelson Mandela Bay Metropolitan,Eastern Cape,Metropolitan
 Alfred Nzo District,Eastern Cape,District
-Amajuba District,KwaZulu-Natal,District
+Amajuba District,KwaZulu Natal,District
 Amathole District,Eastern Cape,District
 Bojanala Platinum District,North West,District
 Cape Winelands District,Western Cape,District
-Capricorn District,Limpopo,District
+Capricorn District,Limpompo,District
 Central Karoo District,Western Cape,District
 Chris Hani District,Eastern Cape,District
 Dr Kenneth Kaunda District,North West,District
@@ -22,13 +22,13 @@ Fezile Dabi District,Free State,District
 Frances Baard District,Northern Cape,District
 Garden Route District,Western Cape,District
 Gert Sibande District,Mpumalanga,District
-Harry Gwala District,KwaZulu-Natal,District
-iLembe District,KwaZulu-Natal,District
+Harry Gwala District,KwaZulu Natal,District
+iLembe District,KwaZulu Natal,District
 Joe Gqabi District,Eastern Cape,District
 John Taolo Gaetsewe District,Northern Cape,District
-King Cetshwayo District,KwaZulu-Natal,District
+King Cetshwayo District,KwaZulu Natal,District
 Lejweleputswa District,Free State,District
-Mopani District,Limpopo,District
+Mopani District,Limpompo,District
 Namakwa District,Northern Cape,District
 Ngaka Modiri Molema District,North West,District
 Nkangala District,Mpumalanga,District
@@ -37,31 +37,31 @@ Overberg District,Western Cape,District
 Pixley Ka Seme District,Northern Cape,District
 Sarah Baartman District,Eastern Cape,District
 Sedibeng District,Gauteng,District
-Sekhukhune District,Limpopo,District
+Sekhukhune District,Limpompo,District
 Thabo Mofutsanyana District,Free State,District
-Ugu District,KwaZulu-Natal,District
-uMgungundlovu District,KwaZulu-Natal,District
-uMkhanyakude District,KwaZulu-Natal,District
-uMzinyathi District,KwaZulu-Natal,District
-uThukela District,KwaZulu-Natal,District
-Vhembe District,Limpopo,District
-Waterberg District,Limpopo,District
+Ugu District,KwaZulu Natal,District
+uMgungundlovu District,KwaZulu Natal,District
+uMkhanyakude District,KwaZulu Natal,District
+uMzinyathi District,KwaZulu Natal,District
+uThukela District,KwaZulu Natal,District
+Vhembe District,Limpompo,District
+Waterberg District,Limpompo,District
 West Coast District,Western Cape,District
 West Rand District,Gauteng,District
 Xhariep District,Free State,District
 ZF Mgcawu District,Northern Cape,District
-Zululand District,KwaZulu-Natal,District
+Zululand District,KwaZulu Natal,District
 !Kheis Local,Northern Cape,Local
-AbaQulusi Local,KwaZulu-Natal,Local
-Alfred Duma Local,KwaZulu-Natal,Local
+AbaQulusi Local,KwaZulu Natal,Local
+Alfred Duma Local,KwaZulu Natal,Local
 Amahlathi Local,Eastern Cape,Local
-Ba-Phalaborwa Local,Limpopo,Local
+Ba-Phalaborwa Local,Limpompo,Local
 Beaufort West Local,Western Cape,Local
-Bela-Bela Local,Limpopo,Local
+Bela-Bela Local,Limpompo,Local
 Bergrivier Local,Western Cape,Local
-Big 5 Hlabisa Local,KwaZulu-Natal,Local
+Big 5 Hlabisa Local,KwaZulu Natal,Local
 Bitou Local,Western Cape,Local
-Blouberg Local,Limpopo,Local
+Blouberg Local,Limpompo,Local
 Blue Crane Route Local,Eastern Cape,Local
 Breede Valley Local,Western Cape,Local
 Bushbuckridge Local,Mpumalanga,Local
@@ -70,9 +70,9 @@ Cederberg Local,Western Cape,Local
 Chief Albert Luthuli Local,Mpumalanga,Local
 City of Matlosana Local,North West,Local
 City of Mbombela Local,Mpumalanga,Local
-City of uMhlathuze Local,KwaZulu-Natal,Local
-Collins Chabane Local,Limpopo,Local
-Dannhauser Local,KwaZulu-Natal,Local
+City of uMhlathuze Local,KwaZulu Natal,Local
+Collins Chabane Local,Limpompo,Local
+Dannhauser Local,KwaZulu Natal,Local
 Dawid Kruiper Local,Northern Cape,Local
 Dihlabeng Local,Free State,Local
 Dikgatlong Local,Northern Cape,Local
@@ -81,43 +81,43 @@ Ditsobotla Local,North West,Local
 Dr AB Xuma Local,Eastern Cape,Local
 Dr Beyers Naudé Local,Eastern Cape,Local
 Dr JS Moroka Local,Mpumalanga,Local
-Dr Nkosazana Dlamini Zuma Local,KwaZulu-Natal,Local
+Dr Nkosazana Dlamini Zuma Local,KwaZulu Natal,Local
 Dr Pixley Ka Isaka Seme Local,Mpumalanga,Local
 Drakenstein Local,Western Cape,Local
-eDumbe Local,KwaZulu-Natal,Local
-Elias Motsoaledi Local,Limpopo,Local
+eDumbe Local,KwaZulu Natal,Local
+Elias Motsoaledi Local,Limpompo,Local
 Elundini Local,Eastern Cape,Local
-eMadlangeni Local,KwaZulu-Natal,Local
+eMadlangeni Local,KwaZulu Natal,Local
 Emakhazeni Local,Mpumalanga,Local
 Emalahleni Local,Mpumalanga,Local
 Emalahleni Local,Eastern Cape,Local
 Emfuleni Local,Gauteng,Local
 Emthanjeni Local,Northern Cape,Local
-Endumeni Local,KwaZulu-Natal,Local
+Endumeni Local,KwaZulu Natal,Local
 Enoch Mgijima Local,Eastern Cape,Local
-Ephraim Mogale Local,Limpopo,Local
-Fetakgomo Tubatse Local,Limpopo,Local
+Ephraim Mogale Local,Limpompo,Local
+Fetakgomo Tubatse Local,Limpompo,Local
 Ga-Segonyana Local,Northern Cape,Local
 Gamagara Local,Northern Cape,Local
 George Local,Western Cape,Local
 Govan Mbeki Local,Mpumalanga,Local
 Great Kei Local,Eastern Cape,Local
-Greater Giyani Local,Limpopo,Local
-Greater Kokstad Local,KwaZulu-Natal,Local
-Greater Letaba Local,Limpopo,Local
+Greater Giyani Local,Limpompo,Local
+Greater Kokstad Local,KwaZulu Natal,Local
+Greater Letaba Local,Limpompo,Local
 Greater Taung Local,North West,Local
-Greater Tzaneen Local,Limpopo,Local
+Greater Tzaneen Local,Limpompo,Local
 Hantam Local,Northern Cape,Local
 Hessequa Local,Western Cape,Local
-Impendle Local,KwaZulu-Natal,Local
+Impendle Local,KwaZulu Natal,Local
 Ingquza Hill Local,Eastern Cape,Local
-Inkosi Langalibalele Local,KwaZulu-Natal,Local
-Inkosi uMtubatuba Local,KwaZulu-Natal,Local
+Inkosi Langalibalele Local,KwaZulu Natal,Local
+Inkosi uMtubatuba Local,KwaZulu Natal,Local
 Intsika Yethu Local,Eastern Cape,Local
 Inxuba Yethemba Local,Eastern Cape,Local
 JB Marks Local,North West,Local
 Joe Morolong Local,Northern Cape,Local
-Jozini Local,KwaZulu-Natal,Local
+Jozini Local,KwaZulu Natal,Local
 Kagisano-Molopo Local,North West,Local
 Kai !Garib Local,Northern Cape,Local
 Kamiesberg Local,Northern Cape,Local
@@ -132,13 +132,13 @@ Knysna Local,Western Cape,Local
 Kopanong Local,Free State,Local
 Kouga Local,Eastern Cape,Local
 Koukamma Local,Eastern Cape,Local
-KwaDukuza Local,KwaZulu-Natal,Local
+KwaDukuza Local,KwaZulu Natal,Local
 Laingsburg Local,Western Cape,Local
 Langeberg Local,Western Cape,Local
 Lekwa Local,Mpumalanga,Local
 Lekwa-Teemane Local,North West,Local
-Lepelle-Nkumpi Local,Limpopo,Local
-Lephalale Local,Limpopo,Local
+Lepelle-Nkumpi Local,Limpompo,Local
+Lephalale Local,Limpompo,Local
 Lesedi Local,Gauteng,Local
 Letsemeng Local,Free State,Local
 Madibeng Local,North West,Local
@@ -146,15 +146,15 @@ Mafube Local,Free State,Local
 Magareng Local,Northern Cape,Local
 Mahikeng Local,North West,Local
 Makana Local,Eastern Cape,Local
-Makhado Local,Limpopo,Local
-Makhuduthamaga Local,Limpopo,Local
+Makhado Local,Limpompo,Local
+Makhuduthamaga Local,Limpompo,Local
 Maluti-A-Phofung Local,Free State,Local
 Mamusa Local,North West,Local
-Mandeni Local,KwaZulu-Natal,Local
+Mandeni Local,KwaZulu Natal,Local
 Mantsopa Local,Free State,Local
-Maphumulo Local,KwaZulu-Natal,Local
+Maphumulo Local,KwaZulu Natal,Local
 Maquassi Hills Local,North West,Local
-Maruleng Local,Limpopo,Local
+Maruleng Local,Limpompo,Local
 Masilonyana Local,Free State,Local
 Matatiele Local,Eastern Cape,Local
 Matjhabeng Local,Free State,Local
@@ -164,53 +164,53 @@ Merafong City Local,Gauteng,Local
 Metsimaholo Local,Free State,Local
 Mhlontlo Local,Eastern Cape,Local
 Midvaal Local,Gauteng,Local
-Mkhambathini Local,KwaZulu-Natal,Local
+Mkhambathini Local,KwaZulu Natal,Local
 Mkhondo Local,Mpumalanga,Local
 Mnquma Local,Eastern Cape,Local
-Modimolle-Mookgophong Local,Limpopo,Local
-Mogalakwena Local,Limpopo,Local
+Modimolle-Mookgophong Local,Limpompo,Local
+Mogalakwena Local,Limpompo,Local
 Mogale City Local,Gauteng,Local
 Mohokare Local,Free State,Local
-Molemole Local,Limpopo,Local
+Molemole Local,Limpompo,Local
 Moqhaka Local,Free State,Local
 Moretele Local,North West,Local
 Moses Kotane Local,North West,Local
 Mossel Bay Local,Western Cape,Local
-Mpofana Local,KwaZulu-Natal,Local
+Mpofana Local,KwaZulu Natal,Local
 Msukaligwa Local,Mpumalanga,Local
-Msunduzi Local,KwaZulu-Natal,Local
-Mthonjaneni Local,KwaZulu-Natal,Local
-Musina Local,Limpopo,Local
+Msunduzi Local,KwaZulu Natal,Local
+Mthonjaneni Local,KwaZulu Natal,Local
+Musina Local,Limpompo,Local
 Nala Local,Free State,Local
 Naledi Local,North West,Local
 Nama Khoi Local,Northern Cape,Local
 Ndlambe Local,Eastern Cape,Local
-Ndwedwe Local,KwaZulu-Natal,Local
-Newcastle Local,KwaZulu-Natal,Local
+Ndwedwe Local,KwaZulu Natal,Local
+Newcastle Local,KwaZulu Natal,Local
 Ngqushwa Local,Eastern Cape,Local
 Ngwathe Local,Free State,Local
-Nkandla Local,KwaZulu-Natal,Local
+Nkandla Local,KwaZulu Natal,Local
 Nketoana Local,Free State,Local
 Nkomazi Local,Mpumalanga,Local
-Nongoma Local,KwaZulu-Natal,Local
-Nquthu Local,KwaZulu-Natal,Local
+Nongoma Local,KwaZulu Natal,Local
+Nquthu Local,KwaZulu Natal,Local
 Ntabankulu Local,Eastern Cape,Local
 Nyandeni Local,Eastern Cape,Local
-Okhahlamba Local,KwaZulu-Natal,Local
+Okhahlamba Local,KwaZulu Natal,Local
 Oudtshoorn Local,Western Cape,Local
 Overstrand Local,Western Cape,Local
 Phokwane Local,Northern Cape,Local
 Phumelela Local,Free State,Local
-Polokwane Local,Limpopo,Local
+Polokwane Local,Limpompo,Local
 Port St Johns Local,Eastern Cape,Local
 Prince Albert Local,Western Cape,Local
 Ramotshere Moiloa Local,North West,Local
 Rand West City Local,Gauteng,Local
 Ratlou Local,North West,Local
-Ray Nkonyeni Local,KwaZulu-Natal,Local
+Ray Nkonyeni Local,KwaZulu Natal,Local
 Raymond Mhlaba Local,Eastern Cape,Local
 Renosterberg Local,Northern Cape,Local
-Richmond Local,KwaZulu-Natal,Local
+Richmond Local,KwaZulu Natal,Local
 Richtersveld Local,Northern Cape,Local
 Rustenburg Local,North West,Local
 Sakhisizwe Local,Eastern Cape,Local
@@ -226,32 +226,32 @@ Sundays River Valley Local,Eastern Cape,Local
 Swartland Local,Western Cape,Local
 Swellendam Local,Western Cape,Local
 Thaba Chweu Local,Mpumalanga,Local
-Thabazimbi Local,Limpopo,Local
+Thabazimbi Local,Limpompo,Local
 Theewaterskloof Local,Western Cape,Local
 Thembelihle Local,Northern Cape,Local
 Thembisile Hani Local,Mpumalanga,Local
-Thulamela Local,Limpopo,Local
+Thulamela Local,Limpompo,Local
 Tokologo Local,Free State,Local
 Tsantsabane Local,Northern Cape,Local
 Tswaing Local,North West,Local
 Tswelopele Local,Free State,Local
-Ubuhlebezwe Local,KwaZulu-Natal,Local
+Ubuhlebezwe Local,KwaZulu Natal,Local
 Ubuntu Local,Northern Cape,Local
-Ulundi Local,KwaZulu-Natal,Local
-Umdoni Local,KwaZulu-Natal,Local
-uMfolozi Local,KwaZulu-Natal,Local
-uMhlabuyalingana Local,KwaZulu-Natal,Local
-uMlalazi Local,KwaZulu-Natal,Local
-uMngeni Local,KwaZulu-Natal,Local
-uMshwathi Local,KwaZulu-Natal,Local
-uMsinga Local,KwaZulu-Natal,Local
+Ulundi Local,KwaZulu Natal,Local
+Umdoni Local,KwaZulu Natal,Local
+uMfolozi Local,KwaZulu Natal,Local
+uMhlabuyalingana Local,KwaZulu Natal,Local
+uMlalazi Local,KwaZulu Natal,Local
+uMngeni Local,KwaZulu Natal,Local
+uMshwathi Local,KwaZulu Natal,Local
+uMsinga Local,KwaZulu Natal,Local
 Umsobomvu Local,Northern Cape,Local
-Umuziwabantu Local,KwaZulu-Natal,Local
-Umvoti Local,KwaZulu-Natal,Local
-Umzimkhulu Local,KwaZulu-Natal,Local
+Umuziwabantu Local,KwaZulu Natal,Local
+Umvoti Local,KwaZulu Natal,Local
+Umzimkhulu Local,KwaZulu Natal,Local
 Umzimvubu Local,Eastern Cape,Local
-Umzumbe Local,KwaZulu-Natal,Local
-uPhongolo Local,KwaZulu-Natal,Local
+Umzumbe Local,KwaZulu Natal,Local
+uPhongolo Local,KwaZulu Natal,Local
 Victor Khanye Local,Mpumalanga,Local
 Walter Sisulu Local,Eastern Cape,Local
 Winnie Madikizela-Mandela Local,Eastern Cape,Local
